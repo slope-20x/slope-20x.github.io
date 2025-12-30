@@ -50,35 +50,6 @@
         <h2 style="color: var(--text-color1); margin-bottom: 10px;">How to use the library</h2>
         <p>Use the search box to filter games by name. Click a game tile to open it in the player above. You can use the fullscreen button for an immersive view.</p>
         <p><b>Tip:</b> If a game does not load, it may be temporarily unavailable from the content source. Try another game or check back later.</p>
-		  <h2>A World of Games, One Click Away</h2>
-
-  <p>
-    Welcome to a place where <strong>every type of game</strong> finds its moment. This page isn’t built around a
-    single genre—it’s a curated mix of styles, speeds, and challenges designed for players who like variety.
-    From fast-paced action to relaxing casual titles, these browser-based games deliver instant fun with zero
-    barriers. No installs, no sign-ups, just pure gameplay.
-  </p>
-
-  <p>
-    Love quick reflex tests? High-speed games like <strong>Slope</strong> and <strong>Run 3</strong> push your
-    timing and focus to the limit. Prefer strategy and sports? Titles such as <strong>Retro Bowl</strong> and
-    <strong>Basketball Stars</strong> combine simple controls with deep, replayable mechanics. If competition is
-    your thing, multiplayer experiences like <strong>1v1.LOL</strong> let you jump straight into skill-based
-    battles against real players.
-  </p>
-
-  <p>
-    This page is made for explorers. One moment you’re dodging obstacles at full speed, the next you’re building,
-    planning, or outsmarting opponents. Each game brings a different mood, ensuring that boredom never has a chance
-    to settle in. Thanks to lightweight design and fast loading times, even short breaks turn into satisfying
-    gaming sessions.
-  </p>
-
-  <p>
-    Whether you’re here to compete, relax, or discover something new, this collection proves one thing:
-    <strong>great games don’t need limits</strong>. Scroll, choose your style, and let every click open the door
-    to a new experience.
-  </p>
     </section>
     <footer style="margin-top: 48px; padding: 24px 16px; text-align:center;" class="hideAfterFullscreen">
         <p style="color: var(--text-color2); margin-bottom: 10px;">© 2025 Railin. All rights reserved.</p>
